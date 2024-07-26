@@ -1,0 +1,57 @@
+/* add your CSS here */
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.firstCard{
+    background-color:	rgb(60,47,47);
+}
+
+.secondCard{
+    background-color:	rgb(170,150,115);
+}
+.container{
+    border: 1px solid rgb(200, 200, 200);
+    width: 320px;
+    height: 685px;
+    box-shadow: 10px 10px rgb(200, 200, 200);
+    margin: 10px;
+}
+
+h3{
+    padding: 10px;
+    border: 1px solid white;
+}
+img{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+#infoContainer{
+    background-color: rgb(246, 238, 227);
+    border: 1px solid rgb(200, 200, 200);
+    width: 280px;
+    height: 330px;
+    margin: 10px;
+    padding: 10px;
+}
+
+p{
+
+}
+.funfact{
+    font-style: italic;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+span{
+    font-weight: bold;
+}
